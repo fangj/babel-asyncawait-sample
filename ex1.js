@@ -9,3 +9,7 @@ async function u(){
 }
 
 u();
+
+
+//babel ex1.js -o ex1-output.js
+//node ex1-output.js
